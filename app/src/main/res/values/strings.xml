@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Abertura Chamados TI - Em Campo</string>
+    <string name="app_name2">Abertura de Chamados</string>
+    <string name="app_name3">Consulta de Chamados</string>
+    <string name="app_data">Data de Solicitação:</string>
+    <string name="app_assunto">Assunto:</string>
+    <string name="app_sessao">Sessão/Relatório/Tipo:</string>
+    <string name="app_empresa">Empresa:</string>
+    <string name="app_categoria">Categoria:</string>
+    <string name="app_solicitante">Solicitante:</string>
+    <string name="app_computador">Computador do Solicitante:</string>
+    <string name="app_equipamento">Equipamento C/ Problema:</string>
+    <string name="app_prioridade">Prioridade:</string>
+    <string name="app_descricao">Descrição:</string>
+    <string name="app_analista">Analista:</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="app_lepe">LEPE INDÚSTRIA E COMÉRCIO LTDA</string>
+    <string name="app_ti">Departamento de Tecnologia da Informação</string>
+    <string name="app_abrir">Abrir chamados...</string>
+    <string name="app_consultar">Consultar chamados...</string>
+</resources>
